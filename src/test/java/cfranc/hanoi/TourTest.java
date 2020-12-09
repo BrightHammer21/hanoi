@@ -8,7 +8,6 @@ public class TourTest {
 
 	Disque d1 = new Disque(1);
 	Disque d2 = new Disque(2);
-	Disque d3 = new Disque(3);
 
 	@Test
 	/**
@@ -57,11 +56,9 @@ public class TourTest {
 	/**
 	 * GIVEN_WHEN_THEN
 	 */
-	public void testEmpiler_TourEstPleine_TRUE() {
+	public void testEmpiler_() {
 
-		int expected = 3;
-
-		//assertEquals(expected,d3);
+//A écrire
 	}
 
 
